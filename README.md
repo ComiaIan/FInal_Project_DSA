@@ -1,4 +1,4 @@
-# FInal_Project_DSA
+# Supermarket Checkout
 
 # About
 - test 1
